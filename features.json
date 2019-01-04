@@ -1,0 +1,50 @@
+[
+	{
+		"icon":"fas fa-users",
+		"title":"House System",
+		"description":"The school system is vertically divided into 4 units called houses.",
+		"background": "#9B59B6"
+	},
+	{
+		"icon":"fas fa-bus",
+		"title":"school transport",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque suscipit, repellendus explicabo...",
+		"background": "#537163"
+	},
+	{
+		"icon":"fas fa-book",
+		"title":"attendance",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque suscipit, repellendus explicabo...",
+		"background": "#009688"
+	},
+	{
+		"icon":"fas fa-basketball-ball",
+		"title":"sports and games",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque suscipit, repellendus explicabo...",
+		"background": "#00954A"
+	},
+	{
+		"icon":"fas fa-user-graduate",
+		"title":"students council",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque suscipit, repellendus explicabo...",
+		"background": "#7FAC97"
+	},
+	{
+		"icon":"fas fa-chart-bar",
+		"title":"project work",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque suscipit, repellendus explicabo...",
+		"background": "#FF9966"
+	},
+	{
+		"icon":"fas fa-th-large",
+		"title":"curriculum",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque suscipit, repellendus explicabo...",
+		"background": "#83D0C9"
+	},
+	{
+		"icon":"fas fa-th",
+		"title":"co-curricular activities",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque suscipit, repellendus explicabo...",
+		"background": "#7BC043"
+	}
+]
