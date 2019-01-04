@@ -1,9 +1,5 @@
 <?php 
-/*
-Keep the folder gyansarowar in htdocs, and not in any other inner folders.
-Images may not load.
 
-*/
 
 
 $topLinks = ["Principal's Desk",'Prayers','Affiliation','News Letter', "Magazine"];
@@ -113,7 +109,7 @@ const processes = [
 	</div>
 	<script>
 		let images = ['1.jpg','2.jpg','3.jpg','4.jpg','../school.jpg'];
-		let imageDir = "/gyansarowar/images/slides/";
+		let imageDir = "images/slides/";
 		let toShow = 0 ;
 		// let lastShown = +new Date();
 		let intrvl;
@@ -201,7 +197,7 @@ const processes = [
 <div class="about_notice">
 	<div class="about_cont">
 		<div class="title">
-			About GyanSarowar Academy
+			About This school
 		</div>
 		<div class="about_body">
 			<div class="about_image_cont">
